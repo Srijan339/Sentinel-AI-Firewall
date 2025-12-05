@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel-AI",
+  "description": "A policy-aware AI Firewall designed to prevent sensitive data leaks in healthcare and financial systems using real-time analysis and redaction.",
+  "requestFramePermissions": []
+}
