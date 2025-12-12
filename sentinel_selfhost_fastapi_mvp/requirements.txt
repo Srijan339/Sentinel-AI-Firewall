@@ -1,8 +1,9 @@
-fastapi
-uvicorn[standard]
-pydantic
-transformers
-torch
-sentencepiece
-spacy
-python-dotenv
+fastapi>=0.95.0
+uvicorn[standard]>=0.22.0
+pydantic>=1.10
+transformers>=4.35.0
+torch>=2.0.0
+sentencepiece>=0.1.98
+spacy>=3.6.0
+python-dotenv>=1.0.0
+accelerate>=0.20.3
